@@ -25,4 +25,25 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**XP Implementations**](http://wiki.c2.com/?ExtremeProgrammingImplementationIssues)
 
 
+## Palestras/Videos 📽️ 
+- [**eXtreme Programming por Vinicius Teles**](https://www.youtube.com/watch?v=pKbmKGHDssc)
+- [**Esqueça Metodologias "Ágeis"**](https://www.youtube.com/watch?v=xjjX3R2WuoM)
+- [**Agile is Dead - Dave Thomas**](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Signatário do Manifesto Ágil
+- [**Extreme Programming 20 years later - Kent Beck**](https://www.youtube.com/watch?v=cGuTmOUdFbo) 
+- [**Agile Back to Basics - Robert C. Martin **](https://www.youtube.com/watch?v=4JihsBOBbdI) - Signatário do Manifesto Ágil
+- [**The future of Agile - Robert C. Martin**](https://www.youtube.com/watch?v=FedQ2NlgxMI) 
+- [**Explaining Agile - Martin Fowler **](https://www.youtube.com/watch?v=GE6lbPLEAzc)
+- [**A Retake on the Agile Manifesto**](https://www.youtube.com/watch?v=zNvmjPzdqKc)
+
+## Podcasts 🎧
+
+- [**Extreme Programming & 3X Explained with Kent Beck**](https://theagilerevolution.com/2020/02/20/episode-180-extreme-programming-3x-explained-with-kent-beck/)
+- [**DNE 183 - Xtreme Programming**](https://devnaestrada.com.br/2018/11/29/xtreme-programming.html)
+- [**Practising XP**](https://open.spotify.com/show/5RPx3sbsq3JRtq4mmS7mGc)
+- [**Agilidade – Hipsters #05**](https://open.spotify.com/episode/1cw9asq1dE8XORgoKXi26M?si=6CR5JmzbQr6z3_kF8J736Q)
+- [**Lambda3 Podcast 22 – Agilidade**](https://open.spotify.com/episode/4F6Z4LOSVvSGW5hfAvyg2q?si=p5YqiAytS7KGUNOzDD1FPA)
+
+
+
+
 
