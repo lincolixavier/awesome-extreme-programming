@@ -30,9 +30,9 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**Esqueça Metodologias "Ágeis"**](https://www.youtube.com/watch?v=xjjX3R2WuoM)
 - [**Agile is Dead - Dave Thomas**](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Signatário do Manifesto Ágil
 - [**Extreme Programming 20 years later - Kent Beck**](https://www.youtube.com/watch?v=cGuTmOUdFbo) 
-- [**Agile Back to Basics - Robert C. Martin **](https://www.youtube.com/watch?v=4JihsBOBbdI) - Signatário do Manifesto Ágil
+- [**Agile Back to Basics - Robert C. Martin**](https://www.youtube.com/watch?v=4JihsBOBbdI) - Signatário do Manifesto Ágil
 - [**The future of Agile - Robert C. Martin**](https://www.youtube.com/watch?v=FedQ2NlgxMI) 
-- [**Explaining Agile - Martin Fowler **](https://www.youtube.com/watch?v=GE6lbPLEAzc)
+- [**Explaining Agile - Martin Fowler**](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 - [**A Retake on the Agile Manifesto**](https://www.youtube.com/watch?v=zNvmjPzdqKc)
 
 ## Podcasts 🎧
