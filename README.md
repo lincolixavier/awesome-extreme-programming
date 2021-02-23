@@ -26,6 +26,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 
 
 ## Palestras/Videos 📽️ 
+- [**Meetup - Venturi X - XP**](https://drive.google.com/file/d/1WUou1lJ7kF0u0SFVqM_YR2xu21CO4tYK)
 - [**eXtreme Programming por Vinicius Teles**](https://www.youtube.com/watch?v=pKbmKGHDssc)
 - [**Esqueça Metodologias "Ágeis"**](https://www.youtube.com/watch?v=xjjX3R2WuoM)
 - [**Agile is Dead - Dave Thomas**](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Signatário do Manifesto Ágil
