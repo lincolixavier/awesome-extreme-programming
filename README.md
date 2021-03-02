@@ -37,7 +37,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**A Retake on the Agile Manifesto**](https://www.youtube.com/watch?v=zNvmjPzdqKc)
 
 ## Podcasts 🎧
-
+- [**Love the Problem**](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=OR61tAV8TbuA2lcd85oiCg)
 - [**Extreme Programming & 3X Explained with Kent Beck**](https://theagilerevolution.com/2020/02/20/episode-180-extreme-programming-3x-explained-with-kent-beck/)
 - [**DNE 183 - Xtreme Programming**](https://devnaestrada.com.br/2018/11/29/xtreme-programming.html)
 - [**Practising XP**](https://open.spotify.com/show/5RPx3sbsq3JRtq4mmS7mGc)
