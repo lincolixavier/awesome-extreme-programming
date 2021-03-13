@@ -43,6 +43,9 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**Agilidade – Hipsters #05**](https://open.spotify.com/episode/1cw9asq1dE8XORgoKXi26M?si=6CR5JmzbQr6z3_kF8J736Q)
 - [**Lambda3 Podcast 22 – Agilidade**](https://open.spotify.com/episode/4F6Z4LOSVvSGW5hfAvyg2q?si=p5YqiAytS7KGUNOzDD1FPA)
 
+## Docs/PDF's
+- [**The Costs and Benefits of Pair Programming**](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
+
 Fique à vontade pra adicionar outros recursos e fontes sobre o tema 🚀 😁
 
 
