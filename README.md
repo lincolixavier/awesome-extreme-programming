@@ -38,7 +38,6 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**Explaining Agile - Martin Fowler**](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 - [**A Retake on the Agile Manifesto**](https://www.youtube.com/watch?v=zNvmjPzdqKc)
 - [**Você não é Ágil - Otávio Lemos**](https://www.youtube.com/watch?v=gvq73nWIA1g)
-- [**A Retake on the Agile Manifesto**](https://www.youtube.com/watch?v=zNvmjPzdqKc)
 
 ## Podcasts 🎧
 - [**Extreme Programming & 3X Explained with Kent Beck**](https://theagilerevolution.com/2020/02/20/episode-180-extreme-programming-3x-explained-with-kent-beck/)
@@ -46,6 +45,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**Practising XP**](https://open.spotify.com/show/5RPx3sbsq3JRtq4mmS7mGc)
 - [**Agilidade – Hipsters #05**](https://open.spotify.com/episode/1cw9asq1dE8XORgoKXi26M?si=6CR5JmzbQr6z3_kF8J736Q)
 - [**Lambda3 Podcast 22 – Agilidade**](https://open.spotify.com/episode/4F6Z4LOSVvSGW5hfAvyg2q?si=p5YqiAytS7KGUNOzDD1FPA)
+- [**Tallercast #10 – Extreme Programming**](https://open.spotify.com/episode/420wwjNcmbQa4s2379cZ2S?si=747fd521d3a847c0)
 
 ## Docs/PDF's
 - [**The Costs and Benefits of Pair Programming**](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
