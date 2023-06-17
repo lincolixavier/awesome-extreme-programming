@@ -13,6 +13,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**The Pragmatic Programmer: your journey to mastery**](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1)
 - [**eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software**](https://www.amazon.com.br/eXtreme-Programming-Pr%C3%A1ticas-desenvolvimento-software-ebook/dp/B019NG6I9S)
 - [**Extreme Programming: Aprenda como encantar seus usuários desenvolvendo software com agilidade e alta qualidade**](https://www.amazon.com.br/Extreme-Programming-desenvolvendo-agilidade-qualidade-ebook/dp/B072HTNYTD)
+- [**Scrum and XP from the Trenches - 2nd Edition**](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/)
 
 ## Web 🌐 
 - [**XP na Wikipedia**](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema)
