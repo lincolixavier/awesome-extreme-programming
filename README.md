@@ -26,6 +26,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**XP Implementations**](http://wiki.c2.com/?ExtremeProgrammingImplementationIssues)
 - [**Industrial XP: Making XP Work in Large Organizations**](https://www.cutter.com/article/industrial-xp-making-xp-work-large-organizations-468796)
 - [**Agile Is Dead**](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html)
+- [**Extreme Programming Tutorial: Comprehensive Guide With Best Practices**](https://www.lambdatest.com/learning-hub/extreme-programming)
 
 
 ## Palestras/Videos 📽️ 
