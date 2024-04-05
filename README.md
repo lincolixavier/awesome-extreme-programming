@@ -1,4 +1,4 @@
-# eXtreme Programming Resources
+# Awesome eXtreme Programming
 
 Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 
