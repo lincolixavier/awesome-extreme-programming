@@ -40,6 +40,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**Explaining Agile - Martin Fowler**](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 - [**A Retake on the Agile Manifesto**](https://www.youtube.com/watch?v=zNvmjPzdqKc)
 - [**Você não é Ágil - Otávio Lemos**](https://www.youtube.com/watch?v=gvq73nWIA1g)
+- [**Agile 2024**](https://www.youtube.com/watch?v=rq_iSKWR3SI)
 
 ## Podcasts 🎧
 - [**Extreme Programming & 3X Explained with Kent Beck**](https://theagilerevolution.com/2020/02/20/episode-180-extreme-programming-3x-explained-with-kent-beck/)
