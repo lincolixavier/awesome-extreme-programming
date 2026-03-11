@@ -21,7 +21,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ eXtreme Programming ⚡
 - [**Extreme Programming: A gentle introduction**](https://www.amazon.com.br/dp/B00N1ZN6C0)
 - [**Site Kent Beck - Criado do XP**](https://www.kentbeck.com/)
 - [**Wiki XP**](http://wiki.c2.com/?ExtremeProgramming)
-- [**Industrial XP**](http://www.industrialxp.org/)
+- [**Industrial XP**](https://www.industrialxp.com/)
 - [**Site Ron Jeffreis - Co-Criador do XP**](https://ronjeffries.com/categories/xprogramming/)
 - [**XP Implementations**](http://wiki.c2.com/?ExtremeProgrammingImplementationIssues)
 - [**Industrial XP: Making XP Work in Large Organizations**](https://www.cutter.com/article/industrial-xp-making-xp-work-large-organizations-468796)
